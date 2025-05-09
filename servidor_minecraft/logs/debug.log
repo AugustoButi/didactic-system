@@ -1470,3 +1470,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5:
 [09May2025 20:37:23.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09May2025 20:37:23.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09May2025 20:37:36.671] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09May2025 20:42:23.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 20:42:23.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 20:44:06.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AugustoButiDMC has made the advancement [Suit Up]
+[09May2025 20:47:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 20:47:23.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 20:50:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AugustoButiDMC has made the advancement [Diamonds!]
