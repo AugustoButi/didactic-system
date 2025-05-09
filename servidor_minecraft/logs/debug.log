@@ -1476,3 +1476,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 5:
 [09May2025 20:47:23.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09May2025 20:47:23.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09May2025 20:50:36.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AugustoButiDMC has made the advancement [Diamonds!]
+[09May2025 20:52:23.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 20:52:23.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 20:54:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Spectator Mode]
+[09May2025 20:54:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Creative Mode]
+[09May2025 20:54:56.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Survival Mode]
+[09May2025 20:57:23.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 20:57:23.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 20:57:47.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Applied effect Night Vision to AugustoButiDMC]
+[09May2025 20:58:51.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AugustoButiDMC was shot by Skeleton
+[09May2025 21:00:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Teleported AugustoButiDMC to 14.500000, -37.000000, 116.500000]
+[09May2025 21:00:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Applied effect Night Vision to AugustoButiDMC]
+[09May2025 21:00:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Added 1 to [mce2.lives] for AugustoButiDMC (now 3)]
+[09May2025 21:01:10.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Creative Mode]
+[09May2025 21:01:24.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Survival Mode]
+[09May2025 21:01:36.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AugustoButiDMC: Set own game mode to Creative Mode]
